@@ -1,0 +1,2 @@
+*{font-family:Arial,Helvetica,sans-serif}body{padding:60px;background-color:#242426;color:#fff}input{color:grey;font-size:1.2rem;width:50%;border:none}.card-grid{display:grid;grid-template-columns:repeat(2,1fr)}@media (min-width:768px){.card-grid{grid-template-columns:repeat(4,1fr)}}.card{align-content:center;border:1px solid grey;border-radius:6px;margin-bottom:10px;margin-right:10px;overflow:hidden}.card img{background-size:cover;width:100%;height:170px}.card p{padding:5px;text-align:center}
+/*# sourceMappingURL=main.38fabe8c.chunk.css.map */
